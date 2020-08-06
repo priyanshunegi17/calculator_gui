@@ -107,9 +107,4 @@ b=Button(f, text="x",padx=26,pady=12,font="sansserif 15 bold")
 b.pack(side=LEFT,padx=5,pady=4)
 b.bind("<Button-1>",click)
 
-
-
-
-
-
 root.mainloop()
